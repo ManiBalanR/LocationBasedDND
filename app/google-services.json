@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790555982947",
+    "firebase_url": "https://mapplaces-17110.firebaseio.com",
+    "project_id": "mapplaces-17110",
+    "storage_bucket": "mapplaces-17110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790555982947:android:8181d3992b124f5c308c56",
+        "android_client_info": {
+          "package_name": "com.example.mapgoogleplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790555982947-352a7voeg429cd96of5piihjcr6441st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapgoogleplaces",
+            "certificate_hash": "694b04129004480e3ef252f616d7f95217a146bc"
+          }
+        },
+        {
+          "client_id": "790555982947-bh3j525tc6g85n8abd5ucqi0ejj7rfsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlyx2oz9gr2ySSMAudJ-dtkQYQTRCD0R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790555982947-bh3j525tc6g85n8abd5ucqi0ejj7rfsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
